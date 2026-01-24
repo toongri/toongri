@@ -20,7 +20,7 @@
 
 
 # 😄 Contacts
-<a href="https://velog.io/@toongri03284/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+<a href="https://velog.io/@toong03284/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/%EC%A4%80%ED%98%95-%EA%B9%80-77baa6131" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=toong03284@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
